@@ -1,0 +1,19 @@
+{
+  "name": "bower-bootswatch-paper",
+  "version": "3.2.0",
+  "description": "Paper theme for Twitter Bootstrap (Bower package)",
+  "main": "less/paper.less",
+  "keywords": [
+    "bootstrap",
+    "paper",
+    "less",
+    "css",
+    "bootswatch"
+  ],
+  "author": "Gints Polis",
+  "license": "MIT",
+  "devDependencies": {
+    "grunt": "~0.4.1",
+    "grunt-contrib-less": "~0.6.1"
+  }
+}

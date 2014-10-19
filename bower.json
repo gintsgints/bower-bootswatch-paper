@@ -1,0 +1,24 @@
+{
+  "name": "bower-bootswatch-paper",
+  "version": "3.2.0",
+  "main": "less/paper.less",
+  "keywords": [
+    "paper",
+    "bootstrap",
+    "twitter",
+    "bootswatch",
+    "less",
+    "css",
+    "flat",
+    "ui",
+    "theme"
+  ],
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "components"
+  ],
+  "dependencies": {
+    "bootstrap-less": "3.2.0"
+  }
+}
