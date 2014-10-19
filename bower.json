@@ -1,7 +1,7 @@
 {
   "name": "bower-bootswatch-paper",
   "version": "3.2.0",
-  "main": "less/paper.less",
+  "main": "css/paper.css",
   "keywords": [
     "paper",
     "bootstrap",
